@@ -1,3 +1,4 @@
+[![Board Status](https://meerrec.visualstudio.com/55c15bf0-052a-45af-8f28-ed7d05194a06/c8d2ce08-2bf3-4cb1-8489-6fd7431661c3/_apis/work/boardbadge/177b5027-471d-4c8c-8c66-871a8810f9f6)](https://meerrec.visualstudio.com/55c15bf0-052a-45af-8f28-ed7d05194a06/_boards/board/t/c8d2ce08-2bf3-4cb1-8489-6fd7431661c3/Microsoft.RequirementCategory)
 # es6-webpack2-starter
 
 [![npm](https://img.shields.io/npm/v/es6-webpack2-starter.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/es6-webpack2-starter)
